@@ -9,7 +9,6 @@ class Solution:
 
     def helper(self, s):
         n = len(s)
-        pair = []
         pre, count = s[0], 0
         res = ""
 
@@ -17,13 +16,10 @@ class Solution:
             if pre == s[i]:
                 count += 1
             else:
-                pair.append([count + 1, int(pre)])
+                res += str(count + 1) + str(pre)
                 pre = s[i]
                 count = 0
             
-        pair.append([count + 1, int(pre)])
-
-        for i in range(len(pair)):
-            res += str(pair[i][0]) + str(pair[i][1])
+        res += str(count + 1) + str(pre)
 
         return res
