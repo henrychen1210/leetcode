@@ -22,7 +22,6 @@ class Solution:
                 count = 0
             
         pair.append([count + 1, int(pre)])
-        print(pair)
 
         for i in range(len(pair)):
             res += str(pair[i][0]) + str(pair[i][1])
