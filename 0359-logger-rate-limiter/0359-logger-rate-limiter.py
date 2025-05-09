@@ -4,10 +4,10 @@ class Logger:
         self.memo = {}
 
     def shouldPrintMessage(self, timestamp: int, message: str) -> bool:
-        if (message in self.memo and timestamp >= self.memo[message]) or (message not in self.memo):
-            self.memo[message] = timestamp + 10
-            return True
-        return False
+        if message in self.memo and timestamp < self.memo[message]:
+            return False
+        self.memo[message] = timestamp + 10
+        return True
         
 
 # Your Logger object will be instantiated and called as such:
