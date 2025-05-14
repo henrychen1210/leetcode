@@ -6,7 +6,7 @@ class Solution:
 
         for c in s:
             count[ord(c) - ord("a")] += 1
-
+        
         for round in range(t):
             next = [0] * 26
             next[0] = count[25]
@@ -14,6 +14,5 @@ class Solution:
             for i in range(2, 26):
                 next[i] = count[i - 1]
             count = next
-
-        res = sum(count) % mod
-        return res
+        
+        return sum(count) % mod
