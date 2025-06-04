@@ -1,9 +1,21 @@
-class Solution:
-    def answerString(self, word: str, numFriends: int) -> str:
+class Solution(object):
+    def answerString(self, word, numFriends):
+        """
+        :type word: str
+        :type numFriends: int
+        :rtype: str
+        """
         if numFriends == 1:
             return word
+
         n = len(word)
-        res = ""
+        length = n - numFriends + 1
+        max_char = max(word)
+        result = ""
+
         for i in range(n):
-            res = max(res, word[i : min(i + n - numFriends + 1, n)])
-        return res
+            if word[i] == max_char:
+                substr = word[i:i + length]
+                result = max(result, substr)
+
+        return result
