@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/henrychen1210/leetcode/tree/master/0001-two-sum) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/henrychen1210/leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
+| [1266-minimum-time-visiting-all-points](https://github.com/henrychen1210/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [2145-grid-game](https://github.com/henrychen1210/leetcode/tree/master/2145-grid-game) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/henrychen1210/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/henrychen1210/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/henrychen1210/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [2998-count-symmetric-integers](https://github.com/henrychen1210/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/henrychen1210/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/henrychen1210/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -106,4 +108,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/henrychen1210/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/henrychen1210/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
