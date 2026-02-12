@@ -1,5 +1,10 @@
 class Solution:
     def longestBalanced(self, s: str) -> int:
+        '''
+        time = O(n^2)
+        space = O(n)
+        '''
+
         n = len(s)
         res = 0
 
