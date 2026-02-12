@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/henrychen1210/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/henrychen1210/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/henrychen1210/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3713-longest-balanced-substring-i](https://github.com/henrychen1210/leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Math
 |  |
 | ------- |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/henrychen1210/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/henrychen1210/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/henrychen1210/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3713-longest-balanced-substring-i](https://github.com/henrychen1210/leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -77,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/henrychen1210/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/henrychen1210/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3713-longest-balanced-substring-i](https://github.com/henrychen1210/leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Design
 |  |
 | ------- |
@@ -90,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/henrychen1210/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/henrychen1210/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3713-longest-balanced-substring-i](https://github.com/henrychen1210/leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Greedy
 |  |
 | ------- |
