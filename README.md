@@ -126,4 +126,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/henrychen1210/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/henrychen1210/leetcode/tree/master/0401-binary-watch) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/henrychen1210/leetcode/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
