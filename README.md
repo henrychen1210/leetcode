@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/henrychen1210/leetcode/tree/master/0038-count-and-say) |
+| [0696-count-binary-substrings](https://github.com/henrychen1210/leetcode/tree/master/0696-count-binary-substrings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/henrychen1210/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/henrychen1210/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/henrychen1210/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0696-count-binary-substrings](https://github.com/henrychen1210/leetcode/tree/master/0696-count-binary-substrings) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/henrychen1210/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Binary Search
 |  |
