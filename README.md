@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0038-count-and-say](https://github.com/henrychen1210/leetcode/tree/master/0038-count-and-say) |
 | [0696-count-binary-substrings](https://github.com/henrychen1210/leetcode/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/henrychen1210/leetcode/tree/master/0761-special-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/henrychen1210/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/henrychen1210/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/henrychen1210/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0761-special-binary-string](https://github.com/henrychen1210/leetcode/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/henrychen1210/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/henrychen1210/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/henrychen1210/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -136,4 +138,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/henrychen1210/leetcode/tree/master/0401-binary-watch) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0761-special-binary-string](https://github.com/henrychen1210/leetcode/tree/master/0761-special-binary-string) |
 <!---LeetCode Topics End-->
