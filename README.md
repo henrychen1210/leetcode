@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/henrychen1210/leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/henrychen1210/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/henrychen1210/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/henrychen1210/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/henrychen1210/leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/henrychen1210/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/henrychen1210/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/henrychen1210/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2145-grid-game](https://github.com/henrychen1210/leetcode/tree/master/2145-grid-game) |
 | [2906-construct-product-matrix](https://github.com/henrychen1210/leetcode/tree/master/2906-construct-product-matrix) |
+| [3546-equal-sum-grid-partition-i](https://github.com/henrychen1210/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -38,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2145-grid-game](https://github.com/henrychen1210/leetcode/tree/master/2145-grid-game) |
 | [2906-construct-product-matrix](https://github.com/henrychen1210/leetcode/tree/master/2906-construct-product-matrix) |
 | [2915-count-of-interesting-subarrays](https://github.com/henrychen1210/leetcode/tree/master/2915-count-of-interesting-subarrays) |
+| [3546-equal-sum-grid-partition-i](https://github.com/henrychen1210/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/henrychen1210/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Hash Table
 |  |
@@ -88,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/henrychen1210/leetcode/tree/master/2998-count-symmetric-integers) |
+| [3546-equal-sum-grid-partition-i](https://github.com/henrychen1210/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/henrychen1210/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3713-longest-balanced-substring-i](https://github.com/henrychen1210/leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Design
