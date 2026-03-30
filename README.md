@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/henrychen1210/leetcode/tree/master/0001-two-sum) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/henrychen1210/leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0359-logger-rate-limiter](https://github.com/henrychen1210/leetcode/tree/master/0359-logger-rate-limiter) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/henrychen1210/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2915-count-of-interesting-subarrays](https://github.com/henrychen1210/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/henrychen1210/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/henrychen1210/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0696-count-binary-substrings](https://github.com/henrychen1210/leetcode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/henrychen1210/leetcode/tree/master/0761-special-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/henrychen1210/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/henrychen1210/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/henrychen1210/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/henrychen1210/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/henrychen1210/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -133,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0761-special-binary-string](https://github.com/henrychen1210/leetcode/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/henrychen1210/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/henrychen1210/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/henrychen1210/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/henrychen1210/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/henrychen1210/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Sliding Window
