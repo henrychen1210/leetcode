@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/henrychen1210/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/henrychen1210/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/henrychen1210/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/henrychen1210/leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/henrychen1210/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/henrychen1210/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/henrychen1210/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/henrychen1210/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/henrychen1210/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/henrychen1210/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/henrychen1210/leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -168,4 +170,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/henrychen1210/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+## String Matching
+|  |
+| ------- |
+| [3474-lexicographically-smallest-generated-string](https://github.com/henrychen1210/leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
