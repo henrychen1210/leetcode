@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2145-grid-game](https://github.com/henrychen1210/leetcode/tree/master/2145-grid-game) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/henrychen1210/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/henrychen1210/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2751-robot-collisions](https://github.com/henrychen1210/leetcode/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/henrychen1210/leetcode/tree/master/2906-construct-product-matrix) |
 | [2915-count-of-interesting-subarrays](https://github.com/henrychen1210/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/henrychen1210/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0761-special-binary-string](https://github.com/henrychen1210/leetcode/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/henrychen1210/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/henrychen1210/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2751-robot-collisions](https://github.com/henrychen1210/leetcode/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/henrychen1210/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/henrychen1210/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/henrychen1210/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -152,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/henrychen1210/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2751-robot-collisions](https://github.com/henrychen1210/leetcode/tree/master/2751-robot-collisions) |
 ## Backtracking
 |  |
 | ------- |
@@ -169,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [2751-robot-collisions](https://github.com/henrychen1210/leetcode/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/henrychen1210/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## String Matching
 |  |
