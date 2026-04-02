@@ -39,11 +39,10 @@ class Solution:
 
         for i in range(1, m):
             dp[i][0][0] = dp[i - 1][0][0] + coins[i][0]
-            x = max(coins[i][0], 0)
             for k in range(1, 3):
                 dp[i][0][k] = max(
                                 dp[i - 1][0][k] + coins[i][0],
-                                dp[i - 1][0][k - 1] + x
+                                dp[i - 1][0][k - 1]
                             )
 
         for j in range(1, n):
@@ -52,7 +51,7 @@ class Solution:
             for k in range(1, 3):
                 dp[0][j][k] = max(
                                 dp[0][j - 1][k] + coins[0][j],
-                                dp[0][j - 1][k - 1] + x
+                                dp[0][j - 1][k - 1]
                             )
 
         for i in range(1, m):
