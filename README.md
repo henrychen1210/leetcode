@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/henrychen1210/leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/henrychen1210/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/henrychen1210/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/henrychen1210/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Matrix
 |  |
 | ------- |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/henrychen1210/leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/henrychen1210/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/henrychen1210/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/henrychen1210/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Enumeration
 |  |
 | ------- |
@@ -138,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/henrychen1210/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/henrychen1210/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Sorting
 |  |
 | ------- |
@@ -148,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/henrychen1210/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/henrychen1210/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/henrychen1210/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/henrychen1210/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Sliding Window
 |  |
 | ------- |
