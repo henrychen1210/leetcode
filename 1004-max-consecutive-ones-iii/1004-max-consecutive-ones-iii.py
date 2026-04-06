@@ -14,6 +14,9 @@ class Solution:
         [0,0,1] 2
         []  
 
+        Time O(n)
+        Space O(1)
+
         '''
 
         left = 0
