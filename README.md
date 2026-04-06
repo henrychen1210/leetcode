@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/henrychen1210/leetcode/tree/master/0189-rotate-array) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/henrychen1210/leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0874-walking-robot-simulation](https://github.com/henrychen1210/leetcode/tree/master/0874-walking-robot-simulation) |
+| [1004-max-consecutive-ones-iii](https://github.com/henrychen1210/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1200-minimum-absolute-difference](https://github.com/henrychen1210/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/henrychen1210/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/henrychen1210/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/henrychen1210/leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/henrychen1210/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2145-grid-game](https://github.com/henrychen1210/leetcode/tree/master/2145-grid-game) |
 | [2906-construct-product-matrix](https://github.com/henrychen1210/leetcode/tree/master/2906-construct-product-matrix) |
 | [2915-count-of-interesting-subarrays](https://github.com/henrychen1210/leetcode/tree/master/2915-count-of-interesting-subarrays) |
@@ -141,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/henrychen1210/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/henrychen1210/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/henrychen1210/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Sorting
@@ -157,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/henrychen1210/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/henrychen1210/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Geometry
 |  |
