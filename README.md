@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/henrychen1210/leetcode/tree/master/0001-two-sum) |
+| [0076-minimum-window-substring](https://github.com/henrychen1210/leetcode/tree/master/0076-minimum-window-substring) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/henrychen1210/leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0359-logger-rate-limiter](https://github.com/henrychen1210/leetcode/tree/master/0359-logger-rate-limiter) |
 | [0874-walking-robot-simulation](https://github.com/henrychen1210/leetcode/tree/master/0874-walking-robot-simulation) |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/henrychen1210/leetcode/tree/master/0038-count-and-say) |
+| [0076-minimum-window-substring](https://github.com/henrychen1210/leetcode/tree/master/0076-minimum-window-substring) |
 | [0696-count-binary-substrings](https://github.com/henrychen1210/leetcode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/henrychen1210/leetcode/tree/master/0761-special-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/henrychen1210/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -160,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/henrychen1210/leetcode/tree/master/0076-minimum-window-substring) |
 | [1004-max-consecutive-ones-iii](https://github.com/henrychen1210/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/henrychen1210/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Geometry
