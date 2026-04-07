@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0359-logger-rate-limiter](https://github.com/henrychen1210/leetcode/tree/master/0359-logger-rate-limiter) |
+| [2069-walking-robot-simulation-ii](https://github.com/henrychen1210/leetcode/tree/master/2069-walking-robot-simulation-ii) |
 ## Data Stream
 |  |
 | ------- |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/henrychen1210/leetcode/tree/master/0874-walking-robot-simulation) |
+| [2069-walking-robot-simulation-ii](https://github.com/henrychen1210/leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [2751-robot-collisions](https://github.com/henrychen1210/leetcode/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/henrychen1210/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## String Matching
