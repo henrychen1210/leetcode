@@ -4,7 +4,7 @@
 #         self.val = x
 #         self.left = None
 #         self.right = None
-from collections import deque 
+from collections import deque
 class Codec:
 
     def serialize(self, root):
@@ -23,7 +23,7 @@ class Codec:
                 q.append(node.right)
             else:
                 res.append("None")
-        return ','.join(res)
+        return ",".join(res)
 
     def deserialize(self, data):
         """Decodes your encoded data to tree.
@@ -36,6 +36,7 @@ class Codec:
         root = TreeNode(int(nodes[0]))
         q = deque([root])
         i = 1
+
         while q:
             curr = q.popleft()
             if nodes[i] != "None":
