@@ -1,43 +1,29 @@
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
-        '''
-        Input: s = "ADOBECODEBANC", t = "ABC"
-        freq = {A: 1, B: 1, C: 1}
-
-        win_freq = {A: 1}
-        [A, B]
-        '''
-        need = [0] * 52
-        window = [0] * 52
-
-        def char_index(c):
-            if c.islower():
-                return ord(c) - ord('a')
-            else:
-                return 26 + ord(c) - ord('A')
-
-        def helper(window, need):
-            for i in range(52):
-                if window[i] < need[i]:
-                    return False
-            return True
+        t_freq = {}
+        window_freq = {}
 
         for c in t:
-            need[char_index(c)] += 1
+            t_freq[c] = t_freq.get(c, 0) + 1
 
-        
+        need = len(t_freq)
+        have = 0
         left = 0
         res = ""
 
-        for right in range(len(s)):
-            window[char_index(s[right])] += 1
+        for right, c in enumerate(s):
+            window_freq[c] = window_freq.get(c, 0) + 1
+            if window_freq[c] == t_freq.get(c, 0):
+                have += 1
             
-            while helper(window, need):
+            while have == need:
                 if res == "" or len(res) > right - left + 1:
                     res = s[left: right + 1]
-                window[char_index(s[left])] -= 1
+                
+                d = s[left]
+                if window_freq[d] == t_freq.get(d, 0):
+                    have -= 1
+                window_freq[d] -= 1
                 left += 1
-
+            
         return res
-
-
