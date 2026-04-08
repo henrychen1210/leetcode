@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/henrychen1210/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0189-rotate-array](https://github.com/henrychen1210/leetcode/tree/master/0189-rotate-array) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/henrychen1210/leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
+| [0721-accounts-merge](https://github.com/henrychen1210/leetcode/tree/master/0721-accounts-merge) |
 | [0874-walking-robot-simulation](https://github.com/henrychen1210/leetcode/tree/master/0874-walking-robot-simulation) |
 | [1004-max-consecutive-ones-iii](https://github.com/henrychen1210/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1200-minimum-absolute-difference](https://github.com/henrychen1210/leetcode/tree/master/1200-minimum-absolute-difference) |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/henrychen1210/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/henrychen1210/leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0359-logger-rate-limiter](https://github.com/henrychen1210/leetcode/tree/master/0359-logger-rate-limiter) |
+| [0721-accounts-merge](https://github.com/henrychen1210/leetcode/tree/master/0721-accounts-merge) |
 | [0874-walking-robot-simulation](https://github.com/henrychen1210/leetcode/tree/master/0874-walking-robot-simulation) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/henrychen1210/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2915-count-of-interesting-subarrays](https://github.com/henrychen1210/leetcode/tree/master/2915-count-of-interesting-subarrays) |
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/henrychen1210/leetcode/tree/master/0076-minimum-window-substring) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/henrychen1210/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0696-count-binary-substrings](https://github.com/henrychen1210/leetcode/tree/master/0696-count-binary-substrings) |
+| [0721-accounts-merge](https://github.com/henrychen1210/leetcode/tree/master/0721-accounts-merge) |
 | [0761-special-binary-string](https://github.com/henrychen1210/leetcode/tree/master/0761-special-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/henrychen1210/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/henrychen1210/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -159,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/henrychen1210/leetcode/tree/master/0721-accounts-merge) |
 | [0761-special-binary-string](https://github.com/henrychen1210/leetcode/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/henrychen1210/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/henrychen1210/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -223,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/henrychen1210/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/henrychen1210/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0721-accounts-merge](https://github.com/henrychen1210/leetcode/tree/master/0721-accounts-merge) |
 ## Binary Tree
 |  |
 | ------- |
@@ -235,4 +240,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/henrychen1210/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/henrychen1210/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0721-accounts-merge](https://github.com/henrychen1210/leetcode/tree/master/0721-accounts-merge) |
+## Union-Find
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/henrychen1210/leetcode/tree/master/0721-accounts-merge) |
 <!---LeetCode Topics End-->
