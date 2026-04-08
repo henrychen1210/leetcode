@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/henrychen1210/leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/henrychen1210/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/henrychen1210/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/henrychen1210/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/henrychen1210/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Matrix
 |  |
@@ -197,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/henrychen1210/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0761-special-binary-string](https://github.com/henrychen1210/leetcode/tree/master/0761-special-binary-string) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/henrychen1210/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Simulation
 |  |
 | ------- |
@@ -204,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2069-walking-robot-simulation-ii](https://github.com/henrychen1210/leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [2751-robot-collisions](https://github.com/henrychen1210/leetcode/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/henrychen1210/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/henrychen1210/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## String Matching
 |  |
 | ------- |
