@@ -14,24 +14,23 @@ class Solution:
 
         '''
 
-        def helper(map):
-            for i, v in map.items():
-                if v > 1:
-                    return False
-            return True
-
         left = 0
         freq = {}
         res = 0
+        dup = 0
 
         for right in range(len(s)):
             freq[s[right]] = freq.get(s[right], 0) + 1
+            if freq[s[right]] > 1:
+                dup += 1
 
-            while left < right and not helper(freq):
+            while left < right and dup > 0:
+                if freq[s[left]] == 2:
+                    dup -= 1
                 freq[s[left]] -= 1
                 left += 1
             
-            if helper(freq):
+            if dup == 0:
                 res = max(res, right - left + 1)
             
         return res
