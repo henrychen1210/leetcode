@@ -27,7 +27,5 @@ class Solution:
         for email, owner in ownership.items():
             ans[uf.find(owner)].append(email)
         
-        print(ans)
-        
         return [[accounts[i][0]] + sorted(emails) for i, emails in ans.items()]
 
