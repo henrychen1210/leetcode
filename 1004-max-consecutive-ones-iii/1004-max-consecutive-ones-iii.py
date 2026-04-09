@@ -15,6 +15,9 @@ class Solution:
         0, 3, 1 [1,1,1,0]
         0, 4, 2 [1,1,1,0,0]
         0, 5, 3 [1,1,1,0,0,0] X -> 1, 5, 3 [1,1,0,0,0] -> 4, 5, 2, [0,0] 
+
+        O(n)
+        O(1)
         '''
 
         left = 0
@@ -25,12 +28,11 @@ class Solution:
             if nums[right] == 0:
                 zero += 1
             
-            while zero > k and left <= right:
+            while zero > k:
                 if nums[left] == 0:
                     zero -= 1
                 left += 1
 
-            if zero <= k:
-                res = max(res, right - left + 1)
+            res = max(res, right - left + 1)
         
         return res
