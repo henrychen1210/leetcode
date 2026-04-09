@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/henrychen1210/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/henrychen1210/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/henrychen1210/leetcode/tree/master/0015-3sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/henrychen1210/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0189-rotate-array](https://github.com/henrychen1210/leetcode/tree/master/0189-rotate-array) |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/henrychen1210/leetcode/tree/master/0011-container-with-most-water) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/henrychen1210/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/henrychen1210/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/henrychen1210/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -154,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/henrychen1210/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/henrychen1210/leetcode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/henrychen1210/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/henrychen1210/leetcode/tree/master/0189-rotate-array) |
