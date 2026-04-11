@@ -1,3 +1,17 @@
+class UF:
+    def __init__(self, N):
+        self.parents = list(range(N))
+
+    def union(self, child, parent, res):
+        a, b = self.find(child),  self.find(parent)
+        self.parents[a] = b
+        return res - 1 if a != b else res
+
+    def find(self, x):
+        if x != self.parents[x]:
+            self.parents[x] = self.find(self.parents[x])
+        return self.parents[x]
+
 
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
@@ -6,30 +20,18 @@ class Solution:
         O(1)
         '''
 
-        res = 0
         m = len(grid)
         n = len(grid[0])
+        res = 0
+        uf = UF(m * n)
 
-        dirs = [[1,0], [-1, 0], [0, 1], [0, -1]]
-
-        def helper(x, y): 
-            queue = collections.deque()
-            grid[x][y] = "0"
-            queue.append([x, y])
-
-            while queue:
-                i, j = queue.popleft()
-                
-                for di, dj in dirs:
-                    if 0 <= i + di < m and 0 <= j + dj < n:
-                        if grid[i + di][j + dj] == "1":
-                            grid[i + di][j + dj] = "0"
-                            queue.append([i + di, j + dj])
-            
         for i in range(m):
             for j in range(n):
-                if grid[i][j] != "0":
-                    helper(i, j)
+                if grid[i][j] == "1":
                     res += 1
+                    for dx, dy in [[1,0],[0,1]]:
+                        ni, nj = i + dx, j + dy
+                        if 0 <= ni < m and 0 <= nj < n and grid[ni][nj] == "1":
+                            res = uf.union(i * n + j, ni * n + nj, res)
         
         return res
