@@ -1,6 +1,9 @@
+
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
         '''
+        O(m*n)
+        O(1)
         '''
 
         res = 0
@@ -10,13 +13,19 @@ class Solution:
         dirs = [[1,0], [-1, 0], [0, 1], [0, -1]]
 
         def helper(x, y): 
-            if grid[x][y] == "0": return
+            queue = collections.deque()
+            grid[x][y] = "0"
+            queue.append([x, y])
 
-            for dx, dy in dirs:
-                if 0 <= x + dx < m and 0 <= y + dy < n:
-                    helper(x + dx, y + dy)
-                grid[x][y] ="0"
-        
+            while queue:
+                i, j = queue.popleft()
+                
+                for di, dj in dirs:
+                    if 0 <= i + di < m and 0 <= j + dj < n:
+                        if grid[i + di][j + dj] == "1":
+                            grid[i + di][j + dj] = "0"
+                            queue.append([i + di, j + dj])
+            
         for i in range(m):
             for j in range(n):
                 if grid[i][j] != "0":
@@ -24,4 +33,3 @@ class Solution:
                     res += 1
         
         return res
-            
