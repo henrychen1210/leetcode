@@ -20,11 +20,14 @@ class Solution:
         for k in range(len(nums)):
             if nums[k] not in memo:
                 memo[nums[k]] = []
-            memo[nums[k]].append(k)
 
-            if len(memo[nums[k]]) >= 3:
-                j, i = memo[nums[k]][-2], memo[nums[k]][-3]
+
+            if len(memo[nums[k]]) == 2:
+                j, i = memo[nums[k]][-1], memo[nums[k]][-2]
                 x = abs(i - j) + abs(j - k) + abs(k - i)
                 res = min(res, x)
+                memo[nums[k]] = [j, k]
+            else:
+                memo[nums[k]].append(k)
         
         return res if res != float('inf') else -1
