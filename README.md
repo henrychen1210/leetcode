@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/henrychen1210/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/henrychen1210/leetcode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/henrychen1210/leetcode/tree/master/0133-clone-graph) |
+| [0146-lru-cache](https://github.com/henrychen1210/leetcode/tree/master/0146-lru-cache) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/henrychen1210/leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0359-logger-rate-limiter](https://github.com/henrychen1210/leetcode/tree/master/0359-logger-rate-limiter) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/henrychen1210/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/henrychen1210/leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/henrychen1210/leetcode/tree/master/0155-min-stack) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/henrychen1210/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0359-logger-rate-limiter](https://github.com/henrychen1210/leetcode/tree/master/0359-logger-rate-limiter) |
@@ -282,4 +284,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/henrychen1210/leetcode/tree/master/0133-clone-graph) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/henrychen1210/leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/henrychen1210/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
