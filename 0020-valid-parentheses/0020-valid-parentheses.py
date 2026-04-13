@@ -12,9 +12,8 @@ class Solution:
             elif c == "[":
                 stack.append("]")
             else:
-                if stack and stack.pop() == c:
-                    continue
-                else:
+                if not stack or stack.pop() != c:
                     return False
-        return True if len(stack) == 0 else False
+                    
+        return not stack
     
