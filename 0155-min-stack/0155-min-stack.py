@@ -11,22 +11,17 @@ class MinStack:
         self.stack.append([val, min_val])
 
     def pop(self) -> None:
-        if len(self.stack) == 0: return None
-
-        val, _ = self.stack.pop()
-        return val
+        self.stack.pop()
 
     def top(self) -> int:
         if len(self.stack) == 0: return None
 
-        val, _ = self.stack[-1]
-        return val
+        return self.stack[-1][0]
 
     def getMin(self) -> int:
         if len(self.stack) == 0: return None
 
-        _, min_val = self.stack[-1]
-        return min_val
+        return self.stack[-1][1]
 
 
 # Your MinStack object will be instantiated and called as such:
