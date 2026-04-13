@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/henrychen1210/leetcode/tree/master/0146-lru-cache) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/henrychen1210/leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0359-logger-rate-limiter](https://github.com/henrychen1210/leetcode/tree/master/0359-logger-rate-limiter) |
+| [0432-all-oone-data-structure](https://github.com/henrychen1210/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/henrychen1210/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0721-accounts-merge](https://github.com/henrychen1210/leetcode/tree/master/0721-accounts-merge) |
 | [0874-walking-robot-simulation](https://github.com/henrychen1210/leetcode/tree/master/0874-walking-robot-simulation) |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/henrychen1210/leetcode/tree/master/0155-min-stack) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/henrychen1210/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0359-logger-rate-limiter](https://github.com/henrychen1210/leetcode/tree/master/0359-logger-rate-limiter) |
+| [0432-all-oone-data-structure](https://github.com/henrychen1210/leetcode/tree/master/0432-all-oone-data-structure) |
 | [2069-walking-robot-simulation-ii](https://github.com/henrychen1210/leetcode/tree/master/2069-walking-robot-simulation-ii) |
 ## Data Stream
 |  |
@@ -288,8 +290,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/henrychen1210/leetcode/tree/master/0146-lru-cache) |
+| [0432-all-oone-data-structure](https://github.com/henrychen1210/leetcode/tree/master/0432-all-oone-data-structure) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/henrychen1210/leetcode/tree/master/0146-lru-cache) |
+| [0432-all-oone-data-structure](https://github.com/henrychen1210/leetcode/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
