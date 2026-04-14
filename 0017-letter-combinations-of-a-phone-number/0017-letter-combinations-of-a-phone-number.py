@@ -14,7 +14,7 @@ class Solution:
 
             return
 
-
+        O(4**n * n)
 
         '''
 
@@ -31,14 +31,16 @@ class Solution:
 
         def helper(i, digits, curr, res):
             if len(curr) == len(digits):
-                res.append(curr)
+                res.append(''.join(curr))
                 return
             
             for c in nums[int(digits[i])]:
-                helper(i + 1, digits, curr + c, res)
+                curr.append(c)
+                helper(i + 1, digits, curr, res)
+                curr.pop()
 
             return
         
         res = []
-        helper(0, digits, "", res)
+        helper(0, digits, [], res)
         return res
