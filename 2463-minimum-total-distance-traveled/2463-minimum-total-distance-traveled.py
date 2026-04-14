@@ -1,28 +1,23 @@
 class Solution:
     def minimumTotalDistance(self, robot: List[int], factory: List[List[int]]) -> int:
-        '''
-        robot = [0,4,6], factory = [[2,2],[6,2]]
-        robot = [-1, 1], factory = [[-2,1],[2,1]]
-        '''
         robot.sort()
         factory.sort()
 
-        factory_positions = []
-        
+        factory_pos = []
+
         for f in factory:
-            for i in range(f[1]):
-                factory_positions.append(f[0])
-
-        robot_count = len(robot)
-        factory_count = len(factory_positions)
-
-        self.dp = [[None] * (factory_count + 1) for _ in range(robot_count + 1)]
-
+            for _ in range(f[1]):
+                factory_pos.append(f[0])
         
-        return self.helper(0, 0, robot, factory_positions)
+        m = len(robot)
+        n = len(factory_pos)
 
-    
-    def helper(self, robot_idx, factory_idx, robot, factory_positions):
+        self.dp = [[None] * (n + 1) for _ in range(m + 1)]
+            
+        return self.helper(0, 0, robot, factory_pos)
+        
+        
+    def helper(self, robot_idx, factory_idx, robot, factory_pos):
         if self.dp[robot_idx][factory_idx] is not None:
             return self.dp[robot_idx][factory_idx]
 
@@ -30,14 +25,13 @@ class Solution:
             self.dp[robot_idx][factory_idx] = 0
             return 0
         
-        if factory_idx == len(factory_positions):
+        if factory_idx == len(factory_pos):
             self.dp[robot_idx][factory_idx] = float('inf')
             return float('inf')
         
-        assign = abs(robot[robot_idx] - factory_positions[factory_idx]) + self.helper(robot_idx + 1, factory_idx + 1, robot, factory_positions)
-
-        skip = self.helper(robot_idx, factory_idx + 1, robot, factory_positions)
+        assign = abs(robot[robot_idx] - factory_pos[factory_idx]) + self.helper(robot_idx + 1, factory_idx + 1, robot, factory_pos)
+        skip = self.helper(robot_idx, factory_idx + 1, robot, factory_pos)
 
         self.dp[robot_idx][factory_idx] = min(assign, skip)
-    
-        return self.dp[robot_idx][factory_idx]
+
+        return  self.dp[robot_idx][factory_idx]
