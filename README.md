@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/henrychen1210/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/henrychen1210/leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/henrychen1210/leetcode/tree/master/0038-count-and-say) |
+| [0065-valid-number](https://github.com/henrychen1210/leetcode/tree/master/0065-valid-number) |
 | [0076-minimum-window-substring](https://github.com/henrychen1210/leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/henrychen1210/leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/henrychen1210/leetcode/tree/master/0127-word-ladder) |
