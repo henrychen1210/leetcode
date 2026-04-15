@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/henrychen1210/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/henrychen1210/leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/henrychen1210/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0053-maximum-subarray](https://github.com/henrychen1210/leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/henrychen1210/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0189-rotate-array](https://github.com/henrychen1210/leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/henrychen1210/leetcode/tree/master/0200-number-of-islands) |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/henrychen1210/leetcode/tree/master/0053-maximum-subarray) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/henrychen1210/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/henrychen1210/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2463-minimum-total-distance-traveled](https://github.com/henrychen1210/leetcode/tree/master/2463-minimum-total-distance-traveled) |
@@ -245,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/henrychen1210/leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/henrychen1210/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0761-special-binary-string](https://github.com/henrychen1210/leetcode/tree/master/0761-special-binary-string) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/henrychen1210/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
