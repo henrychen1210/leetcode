@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/henrychen1210/leetcode/tree/master/0200-number-of-islands) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/henrychen1210/leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0380-insert-delete-getrandom-o1](https://github.com/henrychen1210/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0528-random-pick-with-weight](https://github.com/henrychen1210/leetcode/tree/master/0528-random-pick-with-weight) |
 | [0721-accounts-merge](https://github.com/henrychen1210/leetcode/tree/master/0721-accounts-merge) |
 | [0874-walking-robot-simulation](https://github.com/henrychen1210/leetcode/tree/master/0874-walking-robot-simulation) |
 | [1004-max-consecutive-ones-iii](https://github.com/henrychen1210/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/henrychen1210/leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
+| [0528-random-pick-with-weight](https://github.com/henrychen1210/leetcode/tree/master/0528-random-pick-with-weight) |
 | [1004-max-consecutive-ones-iii](https://github.com/henrychen1210/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2145-grid-game](https://github.com/henrychen1210/leetcode/tree/master/2145-grid-game) |
 | [2906-construct-product-matrix](https://github.com/henrychen1210/leetcode/tree/master/2906-construct-product-matrix) |
@@ -102,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0189-rotate-array](https://github.com/henrychen1210/leetcode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/henrychen1210/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0528-random-pick-with-weight](https://github.com/henrychen1210/leetcode/tree/master/0528-random-pick-with-weight) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/henrychen1210/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1266-minimum-time-visiting-all-points](https://github.com/henrychen1210/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/henrychen1210/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -200,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/henrychen1210/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0528-random-pick-with-weight](https://github.com/henrychen1210/leetcode/tree/master/0528-random-pick-with-weight) |
 | [1004-max-consecutive-ones-iii](https://github.com/henrychen1210/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/henrychen1210/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3488-closest-equal-element-queries](https://github.com/henrychen1210/leetcode/tree/master/3488-closest-equal-element-queries) |
@@ -326,4 +330,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/henrychen1210/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0528-random-pick-with-weight](https://github.com/henrychen1210/leetcode/tree/master/0528-random-pick-with-weight) |
 <!---LeetCode Topics End-->
