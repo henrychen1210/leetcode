@@ -1,31 +1,20 @@
 class Solution:
     def isNumber(self, s: str) -> bool:
-        '''
-        e_, E_
-        e__, E__
-        -/+ _
-        -/+ __
-        .__
-        __.__
-        __.
-
-        '''
         numSeen = False
         dotSeen = False
         eSeen = False
-        numAfterE = False
-
+        numAfterE = True
 
         for i, c in enumerate(s):
             if c.isdigit():
                 numSeen = True
                 numAfterE = True
-            elif c == '.':
+            elif c == ".":
                 if dotSeen or eSeen:
                     return False
                 dotSeen = True
             elif c in "eE":
-                if eSeen or not numSeen:
+                if not numSeen or eSeen:
                     return False
                 eSeen = True
                 numAfterE = False
@@ -34,6 +23,5 @@ class Solution:
                     return False
             else:
                 return False
+        
         return numSeen and numAfterE
-
-
