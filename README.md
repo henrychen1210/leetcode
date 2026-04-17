@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/henrychen1210/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/henrychen1210/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/henrychen1210/leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/henrychen1210/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3713-longest-balanced-substring-i](https://github.com/henrychen1210/leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/henrychen1210/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/henrychen1210/leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/henrychen1210/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Math
 |  |
 | ------- |
@@ -113,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3243-count-the-number-of-powerful-integers](https://github.com/henrychen1210/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/henrychen1210/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/henrychen1210/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/henrychen1210/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
 |  |
 | ------- |
