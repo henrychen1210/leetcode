@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/henrychen1210/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/henrychen1210/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/henrychen1210/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/henrychen1210/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2145-grid-game](https://github.com/henrychen1210/leetcode/tree/master/2145-grid-game) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/henrychen1210/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2463-minimum-total-distance-traveled](https://github.com/henrychen1210/leetcode/tree/master/2463-minimum-total-distance-traveled) |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/henrychen1210/leetcode/tree/master/0011-container-with-most-water) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/henrychen1210/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/henrychen1210/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/henrychen1210/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/henrychen1210/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
