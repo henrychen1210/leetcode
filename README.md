@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1266-minimum-time-visiting-all-points](https://github.com/henrychen1210/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/henrychen1210/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/henrychen1210/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/henrychen1210/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/henrychen1210/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/henrychen1210/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2145-grid-game](https://github.com/henrychen1210/leetcode/tree/master/2145-grid-game) |
@@ -312,11 +313,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/henrychen1210/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0721-accounts-merge](https://github.com/henrychen1210/leetcode/tree/master/0721-accounts-merge) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/henrychen1210/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/henrychen1210/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/henrychen1210/leetcode/tree/master/0200-number-of-islands) |
 | [0721-accounts-merge](https://github.com/henrychen1210/leetcode/tree/master/0721-accounts-merge) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/henrychen1210/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Graph Theory
 |  |
 | ------- |
