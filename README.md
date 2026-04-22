@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2078-two-furthest-houses-with-different-colors](https://github.com/henrychen1210/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2145-grid-game](https://github.com/henrychen1210/leetcode/tree/master/2145-grid-game) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/henrychen1210/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/henrychen1210/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/henrychen1210/leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/henrychen1210/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/henrychen1210/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/henrychen1210/leetcode/tree/master/0721-accounts-merge) |
 | [0761-special-binary-string](https://github.com/henrychen1210/leetcode/tree/master/0761-special-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/henrychen1210/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/henrychen1210/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/henrychen1210/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/henrychen1210/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/henrychen1210/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -339,4 +341,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/henrychen1210/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0528-random-pick-with-weight](https://github.com/henrychen1210/leetcode/tree/master/0528-random-pick-with-weight) |
+## Trie
+|  |
+| ------- |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/henrychen1210/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 <!---LeetCode Topics End-->
