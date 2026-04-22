@@ -1,21 +1,45 @@
+class Trie:
+    def __init__(self):
+        self.child = [None] * 26
+        self.end = False
+
+
 class Solution:
+    def __init__(self):
+        self.head = Trie()
+    
+    def insert(self, s):
+        node = self.head
+        for c in s:
+            idx = ord(c) - ord('a')
+            if not node.child[idx]:
+                node.child[idx] = Trie()
+            node = node.child[idx]
+        node.end = True
+
+    def dfs(self, s, idx, node, edits):
+        if edits > 2:
+            return False
+        
+        if idx == len(s):
+            return node.end
+        
+        for i in range(26):
+            if node.child[i]:
+                newEdit = edits + (i != (ord(s[idx]) - ord('a')))
+                if self.dfs(s, idx+1, node.child[i], newEdit):
+                    return True
+        return False
+
+
     def twoEditWords(self, queries: List[str], dictionary: List[str]) -> List[str]:
-        '''
-        '''
-
-        def helper(a, b):
-            diff = 0
-            for i in range(len(a)):
-                if a[i] != b[i]:
-                    diff += 1
-            return diff
-
-        res = []
+        for w in dictionary:
+            self.insert(w)
         
+        ans= []
+
         for q in queries:
-            for d in dictionary:
-                if helper(q, d) <= 2:
-                    res.append(q)
-                    break
+            if self.dfs(q, 0, self.head, 0):
+                ans.append(q)
         
-        return res
+        return ans
