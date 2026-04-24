@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2452-words-within-two-edits-of-dictionary](https://github.com/henrychen1210/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/henrychen1210/leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/henrychen1210/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2615-sum-of-distances](https://github.com/henrychen1210/leetcode/tree/master/2615-sum-of-distances) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/henrychen1210/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2751-robot-collisions](https://github.com/henrychen1210/leetcode/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/henrychen1210/leetcode/tree/master/2906-construct-product-matrix) |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0528-random-pick-with-weight](https://github.com/henrychen1210/leetcode/tree/master/0528-random-pick-with-weight) |
 | [1004-max-consecutive-ones-iii](https://github.com/henrychen1210/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2145-grid-game](https://github.com/henrychen1210/leetcode/tree/master/2145-grid-game) |
+| [2615-sum-of-distances](https://github.com/henrychen1210/leetcode/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/henrychen1210/leetcode/tree/master/2906-construct-product-matrix) |
 | [2915-count-of-interesting-subarrays](https://github.com/henrychen1210/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3546-equal-sum-grid-partition-i](https://github.com/henrychen1210/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
@@ -94,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/henrychen1210/leetcode/tree/master/0721-accounts-merge) |
 | [0874-walking-robot-simulation](https://github.com/henrychen1210/leetcode/tree/master/0874-walking-robot-simulation) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/henrychen1210/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [2615-sum-of-distances](https://github.com/henrychen1210/leetcode/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/henrychen1210/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2915-count-of-interesting-subarrays](https://github.com/henrychen1210/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3488-closest-equal-element-queries](https://github.com/henrychen1210/leetcode/tree/master/3488-closest-equal-element-queries) |
